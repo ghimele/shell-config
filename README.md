@@ -2,7 +2,6 @@
 
 # 🔥 My Shell Config
 
-[![License][license]](LICENSE)
 ![GitHub](https://img.shields.io/github/license/ghimele/shell-config?style=for-the-badge)
 
 ## About
