@@ -2,16 +2,16 @@
 
 # 🔥 My Shell Config
 
-[![License][license]](LICENSE)
+[![License][license]](./LICENSE)
 
 
 ## About
 This is my shell configuration using **oh-my-posh**.
 
-![Preview1](/img/powershell.PNG)
+![Preview1](./img/powershell.PNG)
 
 
-![Preview1](/img/bash.PNG)
+![Preview1](./img/bash.PNG)
 
 I've created my own theme based on [Tiwahu](https://ohmyposh.dev/docs/themes#tiwahu) theme that is supplied with Oh-My-Posh
 
