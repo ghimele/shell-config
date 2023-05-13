@@ -8,10 +8,10 @@
 ## About
 This is my shell configuration using **oh-my-posh**.
 
-![Preview](/img/powershell.PNG)
+![Preview1](/img/powershell.PNG)
 
 
-![Preview](/img/bash.PNG)
+![Preview1](/img/bash.PNG)
 
 I've created my own theme based on [Tiwahu](https://ohmyposh.dev/docs/themes#tiwahu) theme that is supplied with Oh-My-Posh
 
