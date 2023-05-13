@@ -2,13 +2,13 @@
 
 # 🔥 My Shell Config
 
-[![License][license]](./LICENSE)
+[![License][license]](https://github.com/ghimele/shell-config/blob/main/LICENSE)
 
 
 ## About
 This is my shell configuration using **oh-my-posh**.
 
-![Screenshot](./img/powershell.PNG)
+![Screenshot](https://github.com/ghimele/shell-config/blob/main/img/powershell.PNG)
 
 
 ![Screenshot](https://github.com/ghimele/shell-config/blob/main/img/bash.png)
