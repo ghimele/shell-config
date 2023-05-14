@@ -20,7 +20,10 @@ Follow the installation instructions from [Oh-My-Posh](https://github.com/JanDeD
 - For Bash shell I've created a simple script [oh-my-posh-install.sh](scripts/oh-my-posh-install.sh)
 
 - For PowerShell do the following steps:
-  - [oh-my-posh-install.bat](scripts/oh-my-posh-install.bat) to install PowehShell 7 and Oh My Posh
+  - Run the [oh-my-posh-install.bat](scripts/oh-my-posh-install.bat) as Administrator to install:
+    - Windows Terminal
+    - PowehShell 7 
+    - Oh My Posh
   - open the PoweShell prompt as Administrator and run [oh-my-posh-config.ps1](scripts/oh-my-posh-config.ps1)
 
 ## Prerequisites
