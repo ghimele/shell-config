@@ -84,7 +84,33 @@
                         "fetch_package_manager": true
                     },
                     "template": " {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }} {{ .Full }}"
+                },
+                {
+                    "type": "kubectl",
+                    "style": "plain",
+                    "powerline_symbol": "",
+                    "foreground": "#000000",
+                    "background": "#ebcc34",
+                    "template": " ﴱ {{.Cluster}}-{{.Context}}{{if .Namespace}} :: {{.Namespace}}{{end}} ",
+                    "properties": {
+                        "parse_kubeconfig": true
+                    //   "context_aliases": {
+                    //     "arn:aws:eks:eu-west-1:1234567890:cluster/posh": "posh"
+                    //   }
+                    }
+                },
+                {
+                    "background": "#a7cae1",
+                    "foreground": "#100e23",
+                    "powerline_symbol": "",
+                    "template": " Helm {{ .Version }}",
+                    "style": "plain",
+                    "type": "helm",
+                    "properties": {
+                        "display_mode": "files"
+                    }
                 }
+
             ],
             "type": "prompt"
         },
