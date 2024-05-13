@@ -30,7 +30,7 @@ Follow the installation instructions from [Oh-My-Posh](https://github.com/JanDeD
 
 ⚠ **You should use a modern console** host like the official Windows Terminal to have a great terminal experience on Windows. ⚠
 
-## Techologies used
+## Technologies used
 
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 - [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3)
