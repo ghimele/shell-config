@@ -31,3 +31,6 @@ function Toggle-OhMyPoshKubectl {
 }
 
 oh-my-posh init pwsh --config $script:ShellConfigThemePath | Invoke-Expression
+
+# Customize the color for directory listings in the shell
+$PSStyle.FileInfo.Directory = "`e[1;36m"
